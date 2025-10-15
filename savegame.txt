@@ -1,0 +1,15 @@
+(lp0
+(lp1
+I3
+aI5
+aI2
+aa(lp2
+I1
+aV0
+p3
+aI7
+aa(lp4
+I8
+aI4
+aI6
+aa.

@@ -1,0 +1,7 @@
+Colour:4
+Up:Up
+Down:Down
+Left:Left
+Right:Right
+Pause:space
+Boss:b
